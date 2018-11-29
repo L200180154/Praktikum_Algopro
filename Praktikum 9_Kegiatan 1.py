@@ -1,0 +1,5 @@
+berkas = open("L200180154.txt", "w")
+berkas.write("1. L200180154 \n")
+berkas.write("2. 22-11-1999 \n")
+berkas.write("3. Aditya Dicky Kurniawan")
+berkas.close()
